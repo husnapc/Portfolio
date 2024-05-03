@@ -11,7 +11,7 @@ I'm Fathima Husna, a Front-end Developer passionate about creating dynamic user 
 - **Foudyy Admin Panel**: An Application using NextUI and Next.js.
   [Live Demo](https://foudyy-admin-next-ui.vercel.app/) 
 - **Portfolio**: My personal portfolio website built with HTML, JavaScript & Bootstrap.
-  [Live Demo](https://example.com) | [GitHub Repo](https://github.com/husnapc/portfolio)
+  [Live Demo](https://husnapc.github.io/Portfolio/) | [GitHub Repo](https://github.com/husnapc/portfolio)
 
 ## Skills
 - Front-end Technologies:
